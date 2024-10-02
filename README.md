@@ -41,5 +41,3 @@ Follow these tips:
 - Look at the solutions proposed by other developers. Some use time series, others use supervised algorithms such as linear regression, decision trees, etc. Investigate which model might work best for this use case and explore all options.
 - Whatever model you choose, be sure to process and explore the data as studied in past modules.
 - Trial and error! Don't pretend to get the best model the first time, keep trying.
-
-> NOTE: Solution: https://github.com/4GeeksAcademy/time-series-project-tutorial/blob/main/solution.ipynb
